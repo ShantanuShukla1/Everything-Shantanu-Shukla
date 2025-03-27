@@ -1,0 +1,37 @@
+
+a {
+  text-decoration: none;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 1.5px;
+  cursor: pointer;
+  color: rgb(6, 3, 141);
+  font-weight: bold;
+  transition: opacity 0.2s, box-shadow 0.15s;
+  vertical-align: top;
+}
+
+.contact-button {
+  background-color: rgb(255, 103, 31);
+  margin-right: 5px;
+}
+
+button:hover {
+  opacity: 0.8;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+button:active {
+  opacity: 0.6;
+}
+
+.about-button {
+  background-color: white; 
+  margin-right: 5px;
+}
+.me-button {
+  background-color: rgb(4, 106, 56);
+}
