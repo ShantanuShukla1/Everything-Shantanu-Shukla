@@ -35,3 +35,21 @@ button:active {
 .me-button {
   background-color: rgb(4, 106, 56);
 }
+.normal-text {
+  line-height: 25px;
+}
+.qoute {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+.main-text {
+  text-align: center;
+}
+p {
+  font-family: cursive;
+}
+.sub-text {
+  color:gray;
+  text-align: center;
+}
