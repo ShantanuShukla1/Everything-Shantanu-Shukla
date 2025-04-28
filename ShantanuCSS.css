@@ -46,6 +46,14 @@ button:active {
 .main-text {
   text-align: center;
 }
+.left-main-text {
+  text-align: left;
+  margin-left: 40px;
+}
+.right-main-text {
+  text-align: right;
+  margin-right: 40px;
+}
 p {
   font-family: cursive;
 }
