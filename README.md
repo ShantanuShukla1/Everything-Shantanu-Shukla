@@ -1,1 +1,2 @@
 This project is a personal showcase that highlights everything about me—my background, experiences, interests, and passions. It serves as a digital portfolio where visitors can learn about my journey, skills, and what drives me. Through the content of these pages, this project offers a glimpse into who I am and what I aspire to achieve.
+https://shantanushukla1.github.io/Everything-Shantanu-Shukla/
